@@ -1,0 +1,3 @@
+*.o
+xdp_guard_daemon
+.vscode/
